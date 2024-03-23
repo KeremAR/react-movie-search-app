@@ -1,8 +1,7 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link -> https://moviesearchkerem.netlify.app/
 
-Currently, two official plugins are available:
+![Screenshot 2024-03-23 115626](https://github.com/KeremAR/react-movie-search-app/assets/96104474/cfc3f65a-87e7-4345-9a5a-fb575ae5347a)
+![mobil2](https://github.com/KeremAR/react-movie-search-app/assets/96104474/a857f660-2099-4bde-8f57-e0b37dc56eed)
+![mobil1](https://github.com/KeremAR/react-movie-search-app/assets/96104474/f97c708e-0d58-425c-a5dc-e22820841ff1)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
